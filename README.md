@@ -1,1 +1,1 @@
-ML Automation using popular tools such as Pycaret, Tpot, AutoML and more
+ML Automation using popular libs such as Pycaret, Tpot, AutoML and more
